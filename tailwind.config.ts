@@ -13,7 +13,7 @@ const config: Config = {
           purple: "#5b2a7a",
           purpleDark: "#3f1959",
           navy: "#11136f",
-          lime: "#c8e83e",
+          lime: "#0B176A",
           ink: "#16141b",
           muted: "#65616b",
           soft: "#f7f4f8",

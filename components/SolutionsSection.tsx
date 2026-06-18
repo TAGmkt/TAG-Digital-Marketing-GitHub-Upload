@@ -17,7 +17,7 @@ export function SolutionsSection() {
               key={card.title}
               className="min-h-64 rounded-lg border border-tag-line bg-white p-6 shadow-[0_10px_34px_rgba(22,20,27,0.06)] transition hover:-translate-y-1 hover:border-tag-purple/40 hover:shadow-soft"
             >
-              <span className="grid h-11 w-11 place-items-center rounded-md bg-tag-lime text-xs font-black text-tag-navy">
+              <span className="grid h-11 w-11 place-items-center rounded-md bg-tag-lime text-xs font-black text-white">
                 {String(index + 1).padStart(2, "0")}
               </span>
               <h3 className="mt-8 text-xl font-black text-tag-ink">{card.title}</h3>
