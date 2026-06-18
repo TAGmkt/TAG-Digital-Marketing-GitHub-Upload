@@ -8,7 +8,7 @@ export function SolutionsSection() {
         <SectionHeading
           eyebrow="Soluções"
           title="Um sistema de marketing para sustentar autoridade, não só frequência."
-          description="Cada frente é construída de forma consultiva. A TAG não vende fórmula pronta nem promete resultado garantido: organiza estratégia, execução e análise."
+          description="Cada frente é construída de forma consultiva. A TAG não vende fórmula pronta nem promete agenda cheia: organiza estratégia, execução e análise para melhorar a qualidade da sua presença digital."
         />
 
         <div className="mt-12 grid gap-4 md:grid-cols-2 lg:grid-cols-3">

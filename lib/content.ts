@@ -10,30 +10,30 @@ export const navigationItems = [
 export const audienceCards = [
   {
     title: "Dentistas",
-    text: "Para profissionais com especializações, boa entrega clínica e baixa percepção de autoridade no digital."
+    text: "Para quem tem técnica, especializações e bons atendimentos, mas ainda não é percebido como referência no digital."
+  },
+  {
+    title: "Médicos",
+    text: "Para especialistas que querem construir presença com sobriedade, clareza e autoridade, sem comunicação apelativa."
   },
   {
     title: "Biomédicas",
-    text: "Para quem precisa comunicar valor, segurança e diferenciação sem depender de posts soltos ou exposição forçada."
-  },
-  {
-    title: "Fisioterapeutas",
-    text: "Para especialistas que querem atrair pacientes mais conscientes e reduzir a dependência de indicação."
+    text: "Para profissionais que precisam comunicar valor, segurança e diferenciação sem depender de posts soltos."
   },
   {
     title: "Clínicas e consultórios",
-    text: "Para operações particulares que precisam de previsibilidade, posicionamento e rotina clara de aprovação."
+    text: "Para operações particulares que querem previsibilidade, posicionamento e uma rotina de marketing que não pese no atendimento."
   }
 ];
 
 export const solutionCards = [
   {
     title: "Posicionamento digital",
-    text: "Definição de público, mensagem, diferenciais e linguagem para construir uma presença mais coerente."
+    text: "Definição de público, mensagem, diferenciais e linguagem para deixar claro por que o paciente deve confiar em você."
   },
   {
     title: "Conteúdo de autoridade",
-    text: "Pautas, roteiros e publicações que educam, reduzem objeções e aumentam percepção de valor."
+    text: "Pautas, roteiros e publicações que educam, reduzem objeções e aumentam percepção de valor sem promessas vazias."
   },
   {
     title: "Tráfego pago",
@@ -41,7 +41,7 @@ export const solutionCards = [
   },
   {
     title: "Instagram e Google",
-    text: "Organização dos pontos de contato onde pacientes pesquisam, comparam e decidem avançar."
+    text: "Organização dos pontos de contato onde pacientes pesquisam, comparam, criam confiança e decidem avançar."
   },
   {
     title: "Funil e jornada",
@@ -57,7 +57,7 @@ export const methodSteps = [
   {
     label: "01",
     title: "Você solicita o diagnóstico",
-    text: "Coletamos contexto, especialidade, estágio atual e principais travas do digital."
+    text: "Coletamos contexto, especialidade, histórico de marketing e principais travas da sua presença digital."
   },
   {
     label: "02",
@@ -72,7 +72,7 @@ export const methodSteps = [
   {
     label: "04",
     title: "Apresentamos um plano viável",
-    text: "Organizamos prioridades e próximos passos com uma proposta coerente para seu momento."
+    text: "Organizamos prioridades e próximos passos com uma proposta coerente para seu momento e capacidade de execução."
   },
   {
     label: "05",
@@ -83,7 +83,7 @@ export const methodSteps = [
 
 export const trustItems = [
   "Estratégia antes da execução",
-  "Posicionamento de autoridade para saúde",
+  "Posicionamento de autoridade para profissionais da saúde",
   "Conteúdo com linguagem humana e profissional",
   "Tráfego pago com acompanhamento de dados",
   "Processo claro de aprovação",
@@ -94,7 +94,7 @@ export const faqs = [
   {
     question: "A TAG atende qualquer tipo de negócio?",
     answer:
-      "O foco principal é em profissionais da saúde com atendimento particular, como dentistas, biomédicas, fisioterapeutas e clínicas especializadas."
+      "O foco principal é em profissionais da saúde com atendimento particular, como dentistas, médicos, biomédicas e clínicas especializadas."
   },
   {
     question: "Vocês prometem agenda cheia?",
@@ -125,8 +125,8 @@ export const faqs = [
 
 export const profileOptions = [
   "Dentista",
+  "Médico(a)",
   "Biomédica",
-  "Fisioterapeuta",
   "Clínica ou consultório",
   "Outro profissional da saúde"
 ];

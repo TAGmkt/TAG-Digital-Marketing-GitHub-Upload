@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { LeadForm } from "@/components/LeadForm";
-import { TechnicalVisual } from "@/components/TechnicalVisual";
 
 export function Hero() {
   return (
@@ -13,11 +12,12 @@ export function Hero() {
         <div>
           <p className="mb-5 text-xs font-black uppercase text-tag-purple">TAG Digital Marketing</p>
           <h1 className="max-w-3xl text-4xl font-black leading-[1.03] text-tag-purple md:text-6xl">
-            Marketing sob controle. Autoridade com estratégia.
+            Autoridade digital para profissionais da saúde que querem ser escolhidos pelo valor.
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-tag-muted">
-            A TAG une posicionamento, conteúdo e tráfego pago para ajudar profissionais da saúde a
-            ganhar visibilidade, atrair pacientes mais qualificados e crescer com uma operação digital organizada.
+            A TAG une posicionamento, conteúdo e tráfego pago para ajudar médicos, dentistas,
+            biomédicas e clínicas a sair do improviso, recuperar confiança no marketing e atrair
+            pacientes mais alinhados.
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -25,7 +25,7 @@ export function Hero() {
               href="#contato"
               className="inline-flex min-h-12 items-center justify-center rounded-md bg-tag-purple px-6 text-sm font-black text-white shadow-[0_12px_28px_rgba(91,42,122,0.24)] transition hover:bg-tag-purpleDark"
             >
-              Solicitar diagnóstico digital
+              Solicitar diagnóstico estratégico
             </a>
             <a
               href="#solucoes"
@@ -36,9 +36,9 @@ export function Hero() {
           </div>
 
           <div className="mt-10 grid gap-3 border-l-4 border-tag-lime pl-5 text-sm font-bold text-tag-muted sm:grid-cols-3">
-            <span>Sem promessa vazia</span>
+            <span>Sem exposição forçada</span>
             <span>Processo claro</span>
-            <span>Estratégia com dados</span>
+            <span>Decisão com dados</span>
           </div>
         </div>
 
@@ -50,9 +50,8 @@ export function Hero() {
               width={1263}
               height={620}
               priority
-              className="h-56 w-full object-cover md:h-72"
+              className="h-64 w-full object-cover md:h-80"
             />
-            <TechnicalVisual />
           </div>
           <LeadForm source="hero" />
         </div>

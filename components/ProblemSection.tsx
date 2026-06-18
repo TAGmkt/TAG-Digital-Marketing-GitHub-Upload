@@ -1,12 +1,12 @@
 import { SectionHeading } from "@/components/SectionHeading";
 
 const problems = [
-  "Conteúdo sem posicionamento claro",
-  "Campanhas sem leitura de dados",
+  "Conteúdo que não mostra seu diferencial",
+  "Campanhas sem leitura real de dados",
   "Perfil que atrai curiosos e pedidos de preço",
   "Falta de rotina para gravar, aprovar e publicar",
   "Pouca clareza sobre oferta e diferenciais",
-  "Experiências anteriores que reduziram a confiança"
+  "Experiências anteriores que reduziram sua confiança no marketing"
 ];
 
 export function ProblemSection() {
@@ -15,8 +15,8 @@ export function ProblemSection() {
       <div className="mx-auto grid w-[min(1120px,calc(100%-40px))] gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
         <SectionHeading
           eyebrow="O problema real"
-          title="O Instagram mostra o resultado. Mas nem sempre mostra onde está o problema."
-          description="Muitas perdas de oportunidade estão em mensagens genéricas, conteúdos sem jornada, tráfego sem estratégia, ausência de monitoramento e uma rotina digital que depende demais da improvisação."
+          title="O digital mostra quem aparece. Mas nem sempre mostra quem é melhor."
+          description="Muitas perdas de oportunidade estão em mensagens genéricas, conteúdos sem jornada, tráfego sem estratégia, falta de monitoramento e uma rotina digital que depende demais da improvisação."
         />
 
         <div className="grid gap-3">

@@ -15,7 +15,7 @@ export function Footer() {
           />
           <p className="mt-5 max-w-xl text-sm leading-7 text-tag-muted">
             TAG Digital Marketing | Marketing de autoridade para profissionais da saúde.
-            Estratégia, conteúdo e tráfego com clareza, organização e acompanhamento.
+            Posicionamento, conteúdo e tráfego para médicos, dentistas, biomédicas e clínicas.
           </p>
         </div>
 

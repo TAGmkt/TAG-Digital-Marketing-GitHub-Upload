@@ -11,7 +11,8 @@ export function FinalCTA() {
           </h2>
           <p className="mt-6 text-lg leading-8 text-tag-muted">
             Envie seu contato e a equipe da TAG vai entender seu momento, sua especialidade e o que já
-            foi feito no digital para indicar um caminho mais seguro, seja para consultório, clínica ou marca pessoal.
+            foi feito no digital para indicar um caminho mais seguro para médicos, dentistas, biomédicas,
+            clínicas ou consultórios.
           </p>
           <div className="mt-8 border-l-4 border-tag-lime pl-5">
             <p className="m-0 text-sm font-bold leading-7 text-tag-muted">

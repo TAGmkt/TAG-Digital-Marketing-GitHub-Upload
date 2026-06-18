@@ -7,8 +7,8 @@ export function AudienceSection() {
       <div className="mx-auto w-[min(1120px,calc(100%-40px))]">
         <SectionHeading
           eyebrow="Para quem é"
-          title="A visibilidade pesa de formas diferentes para cada profissional."
-          description="A TAG foi pensada para quem atende particular, valoriza ética e sabe que ser excelente no consultório não basta se o mercado não percebe esse valor."
+          title="Para quem já é bom no atendimento, mas ainda não é lembrado como referência."
+          description="A TAG foi pensada para profissionais da saúde que atendem particular, valorizam ética e precisam transformar excelência técnica em percepção de autoridade."
         />
 
         <div className="mt-12 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
