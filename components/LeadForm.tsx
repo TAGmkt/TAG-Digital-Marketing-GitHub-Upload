@@ -125,7 +125,7 @@ export function LeadForm({ source, variant = "light" }: LeadFormProps) {
           Diagnóstico inicial
         </p>
         <h2 className={`mt-2 text-2xl font-black leading-tight ${isDark ? "text-white" : "text-tag-ink"}`}>
-          Solicite uma análise do seu digital
+          Solicite sua análise de diagnóstico
         </h2>
       </div>
 
