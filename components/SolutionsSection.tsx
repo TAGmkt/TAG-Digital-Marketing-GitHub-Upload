@@ -6,9 +6,9 @@ export function SolutionsSection() {
     <section id="solucoes" className="bg-white py-20 md:py-28">
       <div className="mx-auto w-[min(1120px,calc(100%-40px))]">
         <SectionHeading
-          eyebrow="Soluções"
-          title="Um sistema para sustentar autoridade - não só frequência de posts."
-          description="A TAG não entrega fórmula pronta. Cada frente é construída de forma consultiva, respeitando sua especialidade, sua personalidade e o momento do seu consultório."
+          eyebrow="Método TAG"
+          title="Método especializado para área da saúde e estética."
+          description="Estratégia desenvolvida para transformar seguidores em pacientes através do posicionamento único, respeitando sua especialidade, sua personalidade e o momento do seu consultório."
         />
 
         <div className="mt-12 grid gap-4 md:grid-cols-2 lg:grid-cols-3">

@@ -1,7 +1,7 @@
 export const navigationItems = [
   { label: "Início", href: "#inicio" },
   { label: "Para quem é", href: "#para-quem" },
-  { label: "Soluções", href: "#solucoes" },
+  { label: "Método TAG", href: "#solucoes" },
   { label: "Como funciona", href: "#como-funciona" },
   { label: "Dúvidas", href: "#duvidas" },
   { label: "Contato", href: "#contato" }
@@ -36,12 +36,12 @@ export const solutionCards = [
     text: "Pautas, roteiros e publicações que educam, geram reconhecimento e reduzem as objeções antes mesmo do primeiro contato. Sem promessas vazias. Sem conteúdo que envergonha. Com linguagem que representa o padrão do seu trabalho."
   },
   {
-    title: "Tráfego pago",
-    text: "Campanhas com objetivo, segmentação e leitura de dados - não para trazer qualquer pessoa, mas para atrair quem já tem perfil para se tornar seu paciente. O investimento existe para gerar oportunidade, não para constar no orçamento."
+    title: "Tráfego qualificado",
+    text: "Campanhas segmentadas com diferentes objetivos para transformar mensagens qualificadas em agendamentos e recorrência. Escala de investimento orientada a dados e previsibilidade."
   },
   {
-    title: "Instagram e Google",
-    text: "Os dois canais onde pacientes pesquisam, comparam e decidem em quem confiar. A TAG organiza sua presença em ambos para que cada ponto de contato reforce a mesma percepção: você é a referência."
+    title: "Multi plataformas",
+    text: "Presença estratégica nos canais onde pacientes pesquisam, comparam e decidem em quem confiar: Facebook, Instagram, Google, TikTok e YouTube. A TAG organiza esses pontos de contato para reforçar sua autoridade em cada etapa da jornada."
   },
   {
     title: "Funil e jornada",
@@ -67,7 +67,7 @@ export const methodSteps = [
   {
     label: "03",
     title: "Identificamos o que precisa mudar",
-    text: "Não uma lista de problemas: um diagnóstico com prioridades claras. Posicionamento, conteúdo, tráfego, rotina comercial - o que tem mais impacto no seu momento específico."
+    text: "Plano de ação com um diagnóstico de prioridades claras. Posicionamento, conteúdo, tráfego, rotina comercial e o que tem mais impacto no seu momento específico."
   },
   {
     label: "04",
@@ -82,10 +82,10 @@ export const methodSteps = [
 ];
 
 export const trustItems = [
-  "Estratégia antes da execução - sempre",
+  "Estratégia baseada em dados",
   "Posicionamento construído para a sua especialidade, não para qualquer negócio",
   "Conteúdo com linguagem humana e profissional",
-  "Tráfego pago acompanhado por dados reais",
+  "Tráfego pago qualificado",
   "Aprovação com processo claro e sem sobrecarga",
   "Transparência antes, durante e depois da implantação"
 ];

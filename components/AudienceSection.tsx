@@ -8,7 +8,7 @@ export function AudienceSection() {
         <SectionHeading
           eyebrow="Para quem é"
           title="Para quem cansou de ser excelente no consultório e invisível no digital."
-          description="A TAG foi criada para profissionais da saúde com atendimento particular que já têm técnica, pacientes e estrutura - mas ainda não converteram isso em presença digital de autoridade."
+          description="A TAG foi idealizada para profissionais da saúde que já possuem técnica, entregam ótimos resultados, recebem feedback de pacientes satisfeitos, possuem estrutura para aumentar os atendimentos mas ainda não conseguem transformar isso em resultados consistentes."
         />
 
         <div className="mt-12 grid gap-4 md:grid-cols-2 lg:grid-cols-4">

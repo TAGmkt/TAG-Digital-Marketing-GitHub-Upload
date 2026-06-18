@@ -29,7 +29,7 @@ export function Hero() {
               href="#solucoes"
               className="inline-flex min-h-12 items-center justify-center rounded-md border border-tag-purple/25 bg-white px-6 text-sm font-black text-tag-purple transition hover:border-tag-purple hover:bg-tag-soft"
             >
-              Ver soluções
+              Conhecer o método
             </a>
           </div>
 
