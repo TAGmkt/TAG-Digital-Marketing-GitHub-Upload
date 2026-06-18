@@ -7,8 +7,7 @@ export function MethodSection() {
       <div className="mx-auto w-[min(1120px,calc(100%-40px))]">
         <SectionHeading
           eyebrow="Como funciona"
-          title="Da insegurança com marketing a uma presença digital estruturada."
-          description="O processo foi desenhado para dar clareza ao profissional e reduzir a sobrecarga operacional."
+          title="Do diagnóstico à autoridade: um processo desenhado para dar clareza e reduzir sobrecarga."
           light
         />
 

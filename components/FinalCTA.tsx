@@ -7,17 +7,21 @@ export function FinalCTA() {
         <div>
           <p className="mb-4 text-xs font-black uppercase text-tag-purple">Próximo passo</p>
           <h2 className="text-3xl font-black leading-tight text-tag-purple md:text-5xl">
-            Solicite um diagnóstico digital para a sua realidade.
+            Se você chegou até aqui, provavelmente sente que é hora de fazer diferente.
           </h2>
           <p className="mt-6 text-lg leading-8 text-tag-muted">
-            Envie seu contato e a equipe da TAG vai entender seu momento, sua especialidade e o que já
-            foi feito no digital para indicar um caminho mais seguro para médicos, dentistas, biomédicas,
-            clínicas ou consultórios.
+            Não de tentar mais uma vez do mesmo jeito. De ter clareza sobre o que realmente
+            faz sentido para o seu consultório - e a partir daí, dar um passo com mais segurança.
+          </p>
+          <p className="mt-5 text-lg leading-8 text-tag-muted">
+            O diagnóstico inicial é o começo disso. Sem compromisso, sem pressão. A equipe da
+            TAG vai entender sua especialidade, seu histórico e o que já foi tentado para indicar
+            um caminho que faça sentido para o seu momento.
           </p>
           <div className="mt-8 border-l-4 border-tag-lime pl-5">
             <p className="m-0 text-sm font-bold leading-7 text-tag-muted">
-              O diagnóstico inicial depende das informações sobre posicionamento atual, canais usados,
-              histórico de campanhas, rotina de conteúdo e objetivo comercial.
+              O diagnóstico considera posicionamento atual, canais utilizados, histórico de campanhas,
+              rotina de conteúdo e objetivo comercial.
             </p>
           </div>
         </div>

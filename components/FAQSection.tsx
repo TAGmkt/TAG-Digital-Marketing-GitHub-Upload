@@ -7,7 +7,7 @@ export function FAQSection() {
       <div className="mx-auto grid w-[min(1120px,calc(100%-40px))] gap-10 lg:grid-cols-[0.85fr_1.15fr]">
         <SectionHeading
           eyebrow="Dúvidas"
-          title="Perguntas importantes antes de investir de novo no digital."
+          title="Perguntas que merecem respostas diretas antes de qualquer decisão."
         />
 
         <div className="grid gap-3">

@@ -101,7 +101,7 @@ export function LeadForm({ source, variant = "light" }: LeadFormProps) {
       }
 
       setStatus("success");
-      setMessage("Recebido. A equipe da TAG pode conectar este envio ao canal oficial via WEBHOOK_URL.");
+      setMessage("Recebemos seus dados e entraremos em contato.");
       setForm(initialState);
     } catch (error) {
       setStatus("error");
