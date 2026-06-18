@@ -31,7 +31,7 @@ pnpm start
 
 ## Leads
 
-O formulário envia os dados para o endpoint interno:
+O formulário envia os dados para o endpoint internoo:
 
 ```text
 POST /api/leads
